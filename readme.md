@@ -17,7 +17,7 @@ Automated tool for scraping job postings into a `.csv` file.
 _JobFunnel requires [Python][python] 3.11 or later._
 
 ```
-pip install git+https://github.com/PaulMcInnis/JobFunnel.git
+pip install git+https://github.com/jaysonwor/JobFunnel.git
 ```
 
 # Usage
